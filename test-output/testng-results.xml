@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="284013" started-at="2022-11-22T15:22:47Z" finished-at="2022-11-22T15:27:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="284013" started-at="2022-11-22T15:22:47Z" finished-at="2022-11-22T15:27:31Z">
+      <class name="testpackage.AmazonCart">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testpackage.AmazonCart@362045c0]" name="launch" is-config="true" duration-ms="68916" started-at="2022-11-22T20:52:47Z" finished-at="2022-11-22T20:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verfyTitle()[pri:0, instance:testpackage.AmazonCart@362045c0]" name="verfyTitle" duration-ms="5592" started-at="2022-11-22T20:53:56Z" finished-at="2022-11-22T20:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyTitle -->
+        <test-method status="PASS" signature="search()[pri:1, instance:testpackage.AmazonCart@362045c0]" name="search" duration-ms="33662" started-at="2022-11-22T20:54:02Z" finished-at="2022-11-22T20:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="firstelement()[pri:2, instance:testpackage.AmazonCart@362045c0]" name="firstelement" duration-ms="71108" started-at="2022-11-22T20:54:36Z" finished-at="2022-11-22T20:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstelement -->
+        <test-method status="PASS" signature="anotherelement()[pri:3, instance:testpackage.AmazonCart@362045c0]" name="anotherelement" duration-ms="65067" started-at="2022-11-22T20:55:47Z" finished-at="2022-11-22T20:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anotherelement -->
+        <test-method status="PASS" signature="verifycart()[pri:4, instance:testpackage.AmazonCart@362045c0]" name="verifycart" duration-ms="9194" started-at="2022-11-22T20:56:52Z" finished-at="2022-11-22T20:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycart -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:testpackage.AmazonCart@362045c0]" name="exit" is-config="true" duration-ms="29593" started-at="2022-11-22T20:57:01Z" finished-at="2022-11-22T20:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- testpackage.AmazonCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
